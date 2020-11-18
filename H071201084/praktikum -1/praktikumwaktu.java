@@ -10,7 +10,7 @@ public class praktikumwaktu {
 		 int menit	= ((totalwaktu%3600)/60);
 		 int detik	= totalwaktu%60;
 		 
-		 System.out.println("Hasil konversi (jam:menit:detik)");
+		 System.out.println("Hasil konversi");
 		 System.out.println(jam + ":" + menit + ":" + detik);
 		 
 		 
